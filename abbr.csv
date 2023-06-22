@@ -1,0 +1,801 @@
+,Abbreviation,Word
+0,abbr., abbreviation
+1,AWOL, absent without leave
+2,Acad., Academy
+3,alt., altitude
+4,AM, amplitude modulation
+5,A.D., anno Domini
+6,A.M., ante meridiem (before noon)
+7,apt., apartment
+8,Assn., Association
+9,Aug., August
+10,Ave., Avenue
+11,B.A., Bachelor of Arts
+12,B.S., Bachelor of Science
+13,B.C., Before Christ
+14,Blvd., Boulevard
+15,Capt., Captain
+16,C," Celsius, Centigrade"
+17,ctr., center
+18,cm, centimeter
+19,cent., century
+20,Col., Colonel
+21,Cpl., Corporal
+22,Corp., Corporation
+23,Ct., Court
+24,cu, cubic
+25,dept., department
+26,D.C., District of Columbia
+27,Dr., Doctor
+28,div., division
+29,Dr., Drive
+30,E, east
+31,ed., edition
+32,etc., et cetera (and so on)
+33,F, Fahrenheit
+34,Feb., February
+35,ft., foot
+36,Ft., Fort
+37,FM, frequency modulation
+38,gal., gallon
+39,Gen., General
+40,Gov., Governor
+41,GMT, Greenwich Mean Time
+42,hwy., highway
+43,hr, hour
+44,i.e., id est (that is)
+45,in., inch
+46,inc., incorporated
+47,Jan., January
+48,Jr., Junior
+49,K, Kelvin
+50,kg, kilogram
+51,km, kilometer
+52,Lk., Lake
+53,Ln., Lane
+54,lib., library
+55,lat., latitude
+56,lib., library
+57,Lt., Lieutenant
+58,Ltd., Limited
+59,long., longitude
+60,m, meter
+61,min, minute
+62,M.D., Medical Doctor
+63,M.D., Medicinae Doctor
+64,mi, mile
+65,mph, miles per hour
+66,mg, milligram
+67,mm, millimeter
+68,Mr., Mister
+69,Msgr., Monsignor
+70,mo., month
+71,mt., mountain
+72,mus., museum
+73,N, north
+74,Nov., November
+75,no., number
+76,Oct., October
+77,oz., ounce
+78,p., page
+79,pt., pint
+80,pl., plural
+81,pop., population
+82,P.M., post meridiem (after noon)
+83,Prof., Professor
+84,qt., quart
+85,Rd., Road
+86,R.N., Registered Nurse
+87,rpm, revolutions per minute
+88,sec, second
+89,Sept., September
+90,Sgt., Sergeant
+91,Sr., Sister
+92,S, south
+93,sq, square
+94,Sta., Station
+95,St., Street
+96,ste., suite
+97,Sun., Sunday
+98,Ter., Terrace
+99,Tpk., Turnpike
+100,Univ., University
+101,U.S.A, United States of America
+102,usa , United States of America
+103,vol., volume
+104,wt., weight
+105,W, west
+106,ALY, ALLEY
+107,ANX, ANNEX
+108,APT, APARTMENT
+109,ARC, ARCADE
+110,AVE, AVENUE
+111,BSMT, BASEMENT
+112,BYU, BAYOU
+113,BCH, BEACH
+114,BND, BEND
+115,BLF, BLUFF
+116,BTM, BOTTOM
+117,BLVD, BOULEVARD
+118,BR, BRANCH
+119,BRG, BRIDGE
+120,BRK, BROOK
+121,BLDG, BUILDING
+122,BG, BURG
+123,BYP, BYPASS
+124,CP, CAMP
+125,CYN, CANYON
+126,CPE, CAPE
+127,CSWY, CAUSEWAY
+128,CTR, CENTER
+129,CIR, CIRCLE
+130,CLFS, CLIFF
+131,CLFS, CLIFFS
+132,CLB, CLUB
+133,COR, CORNER
+134,CORS, CORNERS
+135,CRSE, COURSE
+136,CT, COURT
+137,CTS, COURTS
+138,CV, COVE
+139,CRK, CREEK
+140,CRES, CRESCENT
+141,XING, CROSSING
+142,DL, DALE
+143,DM, DAM
+144,DEPT, DEPARTMENT
+145,DV, DIVIDE
+146,DR, DRIVE
+147,EST, ESTATE
+148,EXPY, EXPRESSWAY
+149,EXT, EXTENSION
+150,FLS, FALLS
+151,FRY, FERRY
+152,FLD, FIELD
+153,FLDS, FIELDS
+154,FLT, FLAT
+155,FL, FLOOR
+156,FRD, FORD
+157,FRST, FOREST
+158,FRG, FORGE
+159,FRK, FORK
+160,FRKS, FORKS
+161,FT, FORT
+162,FWY, FREEWAY
+163,FRNT, FRONT
+164,GDNS, GARDEN
+165,GDNS, GARDENS
+166,GTWY, GATEWAY
+167,GLN, GLEN
+168,GRN, GREEN
+169,GRV, GROVE
+170,HNGR, HANGER
+171,HBR, HARBOR
+172,HVN, HAVEN
+173,HTS, HEIGHTS
+174,HWY, HIGHWAY
+175,HL, HILL
+176,HLS, HILLS
+177,HOLW, HOLLOW
+178,INLT, INLET
+179,IS, ISLAND
+180,ISS, ISLANDS
+181,JCT, JUNCTION
+182,KY, KEY
+183,KNLS, KNOLL
+184,KNLS, KNOLLS
+185,LK, LAKE
+186,LKS, LAKES
+187,LNDG, LANDING
+188,LN, LANE
+189,LGT, LIGHT
+190,LF, LOAF
+191,LBBY, LOBBY
+192,LCKS, LOCK
+193,LCKS, LOCKS
+194,LDG, LODGE
+195,LOWR, LOWER
+196,MNR, MANOR
+197,MDWS, MEADOW
+198,MDWS, MEADOWS
+199,ML, MILL
+200,MLS, MILLS
+201,MSN, MISSION
+202,MT, MOUNT
+203,MTN, MOUNTAIN
+204,NCK, NECK
+205,OFC, OFFICE
+206,ORCH, ORCHARD
+207,PKWY, PARKWAY
+208,PH, PENTHOUSE
+209,PNES, PINE
+210,PNES, PINES
+211,PL, PLACE
+212,PLN, PLAIN
+213,PLNS, PLAINS
+214,PLZ, PLAZA
+215,PT, POINT
+216,PRT, PORT
+217,PR, PRAIRIE
+218,RADL, RADIAL
+219,RNCH, RANCH
+220,RPDS, RAPID
+221,RPDS, RAPIDS
+222,RST, REST
+223,RDG, RIDGE
+224,RIV, RIVER
+225,RD, ROAD
+226,RM, ROOM
+227,SHL, SHOAL
+228,SHLS, SHOALS
+229,SHR, SHORE
+230,SHRS, SHORES
+231,SPC, SPACE
+232,SPG, SPRING
+233,SPGS, SPRINGS
+234,SQ, SQUARE
+235,STA, STATION
+236,STRA, STRAVENUE
+237,STRM, STREAM
+238,ST, STREET
+239,STE, SUITE
+240,SMT, SUMMIT
+241,TER, TERRACE
+242,TRCE, TRACE
+243,TRAK, TRACK
+244,TRFY, TRAFFICWAY
+245,TRL, TRAIL
+246,TRLR, TRAILER
+247,TUNL, TUNNEL
+248,TPKE, TURNPIKE
+249,UN, UNION
+250,UPPR, UPPER
+251,VLY, VALLEY
+252,VIA, VIADUCT
+253,VW, VIEW
+254,VLG, VILLAGE
+255,VL, VILLE
+256,VIS, VISTA
+257,WAY, WAY
+258,WLS, WELL
+259,WLS, WELLS
+260,Abd. , Aberdeen
+261,Aberd. , Aberdeen
+262,Aberdeensh.,Aberdeenshire
+263,Aborig. ,aboriginal
+264,Abridg. ,abridged
+265,Abridgem. ,abridgement
+266,Accept. ,acceptance
+267,Accomm. ,accommodation
+268,Accompl. ,accomplished
+269,Achievem. ,achievement
+270,adj. phr. ,adjectival phrase
+271,Admonit. ,admonition
+272,Advancem. ,advancement(s)
+273,Advert. ,advertisement
+274,Aerodynam. ,aerodynamics
+275,Aeronaut. ,"aeronautics, aeronautical"
+276,Affect. ,affecting
+277,Affect. ,affection(s)
+278,Analyt. ,analytic(al)
+279,Anglo-Ind. ,Anglo-Indian
+280,Anthrop. ,anthropology
+281,Anthropol. ,"anthropology, anthropological"
+282,Applic. ,application(s)
+283,Archaeol. ,"archaeology, archaeological"
+284,Archipel. ,archipelago
+285,Archit. ,"architecture, architectural"
+286,Arithm. ,"arithmetic, arithmetical"
+287,Arrangem. ,arrangement
+288,Artific. ,artificial
+289,Artill. ,artillery
+290,Assemb. ,"assembly, assemblies"
+291,Bacteriol.,"bacteriology, bacteriologic(al)"
+292,Bedford. ,Bedfordshire
+293,Bedfordsh. ,Bedfordshire
+294,Bel & Dr. ,(in the Apocrypha) Bel and the Dragon
+295,Berksh. ,Berkshire
+296,Berwicksh. ,Berwickshire
+297,Bibliogr. ,bibliography
+298,Biochem. ,"biochemistry, biochemical"
+299,c.,century
+300,C. ,"county, counties"
+301,c ,(in dates) circa
+302,Cal. ,calendar
+303,Calc. ,calculus
+304,Calligr. ,calligraphy
+305,Campanol. ,campanology
+306,Canterb. ,Canterbury
+307,Cartogr. ,"cartography, cartographic(al)"
+308,Catech. ,catechism
+309,Certif. ,certificate
+310,Charac. ,character
+311,Chem. Engin. ,chemical engineering
+312,Ch. Hist. ,Church history
+313,Chronol. ,chronology
+314,Chrons. ,chronicles
+315,Cinematogr. ,"cinematography, cinematographic(al)"
+316,Civ. Law ,civil law
+317,Civil Engin. ,civil engineering
+318,Class. Antiq.,classical antiquities
+319,Classif. ,classification
+320,Climatol. ,climatology
+321,cogn. w. ,cognate with
+322,Coll. ,"  collected, collection"
+323,Coll. ,  college
+324,Com. ,  common
+325,Com. ,  commission
+326,Comb. ,  combination(s)
+327,comb. form,combining form
+328,Commandm. ,commandment
+329,Commend. ,commendation
+330,Commerc. ,commercial
+331,Commiss. ,commission
+332,Comm. Law ,commercial law
+333,Commonw. ,commonwealth
+334,Communic. ,communication(s)
+335,Compan. ,companion(s)
+336,Comp. Anat. ,comparative anatomy
+337,compar. ,comparative
+338,Compar. ,comparative
+339,Compend. ,"compendium, compendious"
+340,Compos. ,composition
+341,Confid. ,confidential
+342,Confut. ,confutation
+343,Congreg. ,congregation
+344,Congress. ,congressional
+345,Consecr. ,"consecrated, consecration"
+346,Consid. ,consideration(s)
+347,Consol. ,consolation
+348,Constit. Hist. ,constitutional history
+349,Constit. ,constitution(al)
+350,Constr. ,construction
+351,Contemp. ,contemporary
+352,Contempl. ,contemplation
+353,contempt. ,contemptuous(ly)
+354,Contend. ,contending(s)
+355,Content. ,contention
+356,Contin. ,continuation
+357,Contradict. ,contradiction
+358,Contrib. ,contribution
+359,Controv. ,controversial
+360,Controv. ,controversy
+361,Convent. ,convention
+362,Conversat. ,conversation
+363,Convoc. ,convocation
+364,corresp. ,corresponding (to)
+365,Corresp. ,correspondence
+366,Courtsh. ,courtship
+367,Craniol. ,craniology
+368,Craniom. ,craniometry
+369,Crim. Law ,criminal law
+370,Cryptogr. ,cryptography
+371,Crystallogr. ,crystallography
+372,Cumberld. ,Cumberland
+373,Cumbld. ,Cumberland
+374,Dan.,(in the Bible) Daniel
+375,dat. ,dative
+376,Dau. ,daughter
+377,D.C. ,District of Columbia
+378,Deb. ,debate
+379,Dec. ,December
+380,Demonstr. ,demonstration
+381,Depred. ,depredation
+382,Depredat. ,depredation
+383,Derbysh. ,Derbyshire
+384,Devonsh. ,Devonshire
+385,Diffic. ,"difficult, difficulty"
+386,Direct. ,direction
+387,Discipl. ,discipline
+388,Discov. ,discovery
+389,Discrim. ,discrimination
+390,Discuss. ,discussion
+391,Distemp. ,distemper
+392,Distill. ,distilling
+393,Distrib. ,distribution
+394,Divers. ,diversity
+395,Domest. ,domestic
+396,dyslog. ,dyslogistic
+397,e.,east
+398,E. ,"east, eastern"
+399,east. ,      eastern (dialect)
+400,Eccl. ,      ecclesiastical
+401,Eccl. ,      (in the Bible) Ecclesiastes
+402,Ecol. ,"      ecology, ecological"
+403,Econ. ,"      economics, economic(al)"
+404,ed. ,      edition
+405,Ed. ,      edition
+406,Ed. ,      Edward
+407,E.D.D. ,      English Dialect Dictionary
+408,Edin. ,      Edinburgh
+409,Edinb. ,      Edinburgh
+410,Educ. ,"      education, education(al)"
+411,Edw. ,      Edward
+412,Egypt. ,      Egyptian
+413,Electro-physiol. ,   electro-physiology
+414,Encycl. Metrop. ,   Encyclopaedia Metropolitana
+415,Eng. ,"England, English"
+416,Engin. ,engineering
+417,Englishw.,Englishwomen
+418,Enthus. ,enthusiasm
+419,Entomol. ,"entomology, entomological"
+420,Enzymol. ,enzymology
+421,Essent. ,essential
+422,Establ. ,establishment
+423,Ethnol. ,ethnology
+424,etymol. ,etymological(ly)
+425,Etymol. ,"etymology, etymological"
+426,euphem. ,euphemistic(ally)
+427,Ex. doc. ,executive document
+428,Explan. ,explanation
+429,Explic. ,explication
+430,Explor. ,exploration
+431,f.,feminine
+432,f. ,folio
+433,Fab. ,fable(s)
+434,fam. ,familiar(ly)
+435,Fam. ,family
+436,famil. ,familiar(ly)
+437,Farew. ,farewell
+438,Feb. ,February
+439,fem. ,feminine
+440,Ff. ,folios
+441,Footpr. ,footprint
+442,Forfarsh. ,Forfarshire
+443,Fortif. ,fortification
+444,Fratern. ,fraternity
+445,Friendsh. ,friendship
+446,Furnit. ,furniture
+447,Gal.,(in the Bible) Galatians
+448,Gard. ,"garden, gardening"
+449,Gastron. ,gastronomy
+450,Geomorphol. ,geomorphology
+451,gerund. ,gerundial
+452,Gloucestersh. ,Gloucestershire
+453,Gynaecol.,gynaecology
+454,Hab.,(in the Bible) Habakkuk
+455,Hag. ,    (in the Bible) Haggai
+456,Hants. ,    Hampshire
+457,Heb. ,    Hebrew
+458,Heb. ,    (in the Bible) Hebrews
+459,Hebr. ,    (in the Bible) Hebrews
+460,Hen. ,    Henry
+461,Her. ,    heraldry
+462,Herb. ,    herbalism
+463,Heref. ,    Herefordshire
+464,Herefordsh.,Herefordshire
+465,Hertfordsh. ,Hertfordshire
+466,Hierogl. ,Hieroglyphic
+467,Histol. ,"histology, histologic(al)"
+468,Househ. ,household
+469,Housek. ,housekeeping
+470,Hydraul. ,hydraulic
+471,Hydrol. ,"hydrology, hydrological"
+472,Ichth.,ichthyology
+473,Icthyol.,icthyology
+474,Illustr. ,"illustrated, illustration(s)"
+475,Immunol. ,immunology
+476,imperf. ,imperfect
+477,impers. ,impersonal
+478,improp. ,improper(ly)
+479,Inclos. ,inclosure
+480,Industr. ,industrial
+481,Industr. Rel. ,industrial relations
+482,infin. , infinitive
+483,infl. , influenced
+484,Infl. , influence
+485,Innoc. ," innocence, innocent"
+486,Inorg. , inorganic
+487,Inq. , inquiry
+488,Inst. ," institute, institution"
+489,instr. , instrumental
+490,Instr. , instruction
+491,int. , interjection
+492,Intellect. ,       intellectual
+493,Interc. ,       intercourse
+494,interj. ,       interjection
+495,Interl. ,       interlude
+496,Internat. ,       international
+497,Interpr. ,       interpretation
+498,interrog. ,       interrogative
+499,intrans. ,       intransitive
+500,Introd. ,"       introduction, introductory"
+501,Invent. ,       invention(s)
+502,Invent. ,"       inventory, inventories"
+503,Invertebr. ,"       invertebrate, invertebrated"
+504,Invert. Zool. ,       invertebrate zoology
+505,Investig. ,       investigation
+506,Investm. ,       investment
+507,Jahrb.,Jahrbuch
+508,Jam. ,(in the Bible) James
+509,Jam. ,(in author names) Jamieson
+510,Jan. ,January
+511,Jap. ,Japanese
+512,Jas. ,James
+513,Jas. ,(in the Bible) James
+514,Jer. ,(in the Bible) Jeremiah
+515,joc. ,jocular(ly)
+516,Josh. ,(in the Bible) Joshua
+517,Jrnl. ,journal
+518,Jrnls. ,journals
+519,Jud. ,(in the Bible) Judges
+520,Judg. ,(in the Bible) Judges
+521,Jul. ,July
+522,Jun. ,June
+523,Jun. ,junior
+524,Jurisdict. ,jurisdiction
+525,Jurispr. ,jurisprudence
+526,Justif. ,justification
+527,Justific. ,justification
+528,K.,king
+529,Kent. ,Kentish
+530,Kgs. ,(in the Bible) Kings
+531,Kingd. ,     kingdom
+532,Knowl. ,     knowledge
+533,Kpr. ,     keeper
+534,l.,line
+535,Lab. ,laboratory
+536,Lam. ,(in the Bible) Lamentations
+537,Lament ,lamentation
+538,Lancash. ,Lancashire
+539,Leechd. ,leechdom
+540,Leicest. ,Leicestershire
+541,Leicester. ,Leicestershire
+542,Leicestersh. ,Leicestershire
+543,Limnol. ,limnology
+544,Lincolnsh. ,Lincolnshire
+545,Lithogr. ,lithography
+546,Lithol. ,lithology
+547,Liturg. ,liturgy
+548,m.,masculine
+549,Macc. ,(in the Apocrypha) Maccabees
+550,Mach. ,"machinery, machine(s)"
+551,Mag. ,magazine
+552,Magn. ,"magnetism, magnetic"
+553,Mal. ,(in the Bible) Malachi
+554,Man. ,manual
+555,Managem.,management
+556,Measurem. ,measurement
+557,Metall. ,metallurgy
+558,Metallif. ,metalliferous
+559,Metallogr. ,"metallography, metallographic(al)"
+560,Metallogr. ,metallography
+561,Metamorph. ,metamorphosis
+562,Metaph. ,metaphysics
+563,metaphor. ,metaphorical(ly)
+564,Meteorol. ,"meteorology, meteorologic(al)"
+565,metr. gr. ,metri gratia
+566,Metrop. ,"metropolitan, metropolis"
+567,Microbiol. ,microbiology
+568,Microsc. ,microscopic(al)
+569,Mineral. ,"mineralogy, minaralogic(al)"
+570,Miscell. ,miscellany
+571,Morphol. ,morphology
+572,Mythol. ,mythology
+573,n.,neuter
+574,n. ,north
+575,n. ,noun
+576,N. ,"north, northern"
+577,Nah. ,       (in the Bible) Nahum
+578,Narr. ,       narrative
+579,Nat. ,       natural
+580,Naut. ,       nautical
+581,Nav. ,       naval
+582,Nav. ,       navigation
+583,Navig. ,       navigation
+584,n.e. ,       north-eastern (dialect)
+585,N.E. ,"       north-east, north-eastern"
+586,N.E.D. ,       New English Dictionary
+587,Neh. ,       (in the Bible) Nehemiah
+588,Nerv. ,       nervous
+589,Newc. ,       Newcastle
+590,N. Ir. ,       Northern Irish
+591,No. ,       number
+592,nom. ,       nominative
+593,Norf. ,       Norfolk
+594,north. ,       northern (dialect)
+595,Obad.,(in the Bible) Obadiah
+596,Obed. ,obedience
+597,obj. ,"object, objective"
+598,Obj. ,object(s)
+599,obl. ,oblique
+600,obs. ,obsolete
+601,Obs. ,obsolete
+602,Obstet. ,obstetric(s)
+603,Obstetr. ,obstetric(s)
+604,Obstetr. Med. ,obstetric medicine
+605,occas. , occasionally
+606,Occas. , occasional
+607,Occup. , occupation(al)
+608,Oceanogr.,"oceanography, oceanographic(al)"
+609,Ophthalm. ,ophthalmology
+610,Ophthalmol. ,"ophthalmology, ophtalmologic(al)"
+611,Oppress. ,oppression
+612,Organ. Chem. ,organic chemistry
+613,Org. Chem. ,organic chemistry
+614,Ornith. ,ornithology
+615,Ornithol. ,"ornithology, ornithologic(al)"
+616,Orthogr. ,orthography
+617,Oxfordsh. ,Oxfordshire
+618,p.,page
+619,pa. ,past
+620,Pa. ,Pennsylvania
+621,Palaeobot.,palaeobotany
+622,Palaeogr. ,palaeography
+623,Palaeont. ,palaeontology
+624,Palaeontol. ,"palaeontology, palaeontologic(al)"
+625,pa. pple. ,"passive participle, past participle"
+626,Paraphr. ,"paraphrase, paraphrased"
+627,Parasitol. ,parasitology
+628,Parnass. ,Parnassus
+629,Pathol. ,"pathology, pathologic(al)"
+630,Peculat. ,peculation(s)
+631,Penins. ,peninsula
+632,Periodontol. ,"periodontology, periodontologic(al)"
+633,Persec. ,persecution(s)
+634,personif. ,personified
+635,Perthsh. ,Perthshire
+636,Petrogr. ,"petrography, petrographic(al)"
+637,Petrol. ,"petrology, petrologic(al)"
+638,Pharmaceut. ,pharmaceutical
+639,Pharmacol. ,"pharmacology, pharmacological"
+640,Philad. ,Philadelphia
+641,Philem. ,(in the Bible) Philemon
+642,Philipp. ,(in the Bible) Philippians
+643,Philol. ,"philology, philologic(al)"
+644,Philos. ,"philosophy, philosophic(al)"
+645,phonet. ,phonetic(ally)
+646,Phonol. ,phonology
+647,Photog. ,photography
+648,Photogr. ,"photography, photographic(al)"
+649,Phrenol. ,phrenology
+650,Physical Chem. ,physical chemistry
+651,Physical Geogr. , physical geography
+652,Q.,quarterly
+653,Q. ,queen
+654,Q. Eliz.,Queen Elizabeth
+655,Quantum Mech. ,quantum mechanics
+656,quot. ,quotation
+657,quots. ,quotations
+658,q.v. ,quod vide
+659,R.,royal
+660,R.C. Church ,Roman Catholic Church
+661,Rebell. ,rebellion
+662,Reclam. ,reclamation
+663,Recoll. ,recollection
+664,Redempt. ,redemption
+665,redupl. ,reduplicating
+666,refash. ,"refashioned, refashioning"
+667,Regist. ,register
+668,Reminisc. ,reminiscence(s)
+669,Remonstr. ,remonstrance
+670,Renfrewsh. ,Renfrewshire
+671,Reprod. ,"reproduction, reproductive"
+672,Retrosp. ,retrospective
+673,Rhode Isl. ,Rhode Island
+674,Rom. Antiq. ,Roman antiquities
+675,Ross-sh. ,Ross-shire
+676,s.,south
+677,S. ,"south, southern"
+678,Sam. ,       (in the Bible) Samuel
+679,Sask. ,       Saskatchewan
+680,Sat. ,       Saturday
+681,Sax. ,       Saxon
+682,sc. ,       scilicet
+683,Sc. ,"       Scottish, Scots"
+684,Scand. ,"       Scandinavia, Scandinavian"
+685,Sch. ,       school
+686,Sci. ,"       science(s), scientific"
+687,Scot. ,       Scottish
+688,Scotl. ,       Scotland
+689,s.e. ,       south-eastern (dialect)
+690,S.E. ,"       south-east, south-eastern"
+691,Sel. ,       selected
+692,Sept. ,       September
+693,Ser. ,       series
+694,Serm. ,       sermon(s)
+695,Sess. ,       session
+696,Sev. ,       several
+697,Shaks. ,       Shakespeare
+698,Sheph. ,       shepherd
+699,Shetl. ,       Shetland
+700,sing. ,       singular
+701,Soc. ,       society
+702,Som. ,       Somerset
+703,Sonn. ,       sonnet
+704,south. ,       southern (dialect)
+705,sp. ,       spelling
+706,Span. ,       Spanish
+707,spec. ,       specifically
+708,Spec. ,       special
+709,Spec. ,       specimen(s)
+710,SS. ,       saints
+711,St. ,       Saint
+712,St. ,       street
+713,Staff. ,       Staffordshire
+714,Stand. ,       standard
+715,Stat. ,       statistical
+716,Stratigr.,"stratigraphy, stratigraphical"
+717,Struct. ,"structure, structural"
+718,subjunct. ,subjunctive
+719,subord. ,subordinate
+720,subord. cl. ,subordinate clause
+721,Subscr. ,subscription
+722,Subscript. ,subscription
+723,subseq. ,subsequent(ly)
+724,superl. ,superlative
+725,Supplic. ,supplication(s)
+726,Suppress. ,suppression
+727,Symmetr. ,symmetrical
+728,t.,tense
+729,Taxon. ,"taxonomy, taxonomic"
+730,techn. ,technical
+731,Techn. ,technical
+732,Technol.,"technology, technological"
+733,Telecomm. ,telecommunications
+734,Telegr. ,telegraph
+735,Telegr. ,"telegraphy, telegraphic(al)"
+736,Teleph. ,"telephony, telephonic"
+737,Teratol. ,teratology
+738,Terminol. ,"terminology, terminological"
+739,Terrestr. ,terrestrial
+740,Textbk. ,textbook
+741,Theatr. ,"theatre, theatrical"
+742,Theoret. ,theoretical
+743,Thermonucl. ,thermonuclear
+744,Topogr. ,"topography, topographic(al)"
+745,transf. ,transferred sense
+746,transl. ,"translation, translating"
+747,Transl. ,translation
+748,Transubstant. ,transubstantiation
+749,Treatm. ,treatment
+750,Trigonom. ,trigonometry
+751,Troubl. ,troublesome
+752,Typogr. ,typography
+753,U.K.,United Kingdom
+754,ult. ,ultimately
+755,Univ. ,university
+756,unkn. ,unknown
+757,Unnat. ,unnatural
+758,Unoffic.,unofficial
+759,U.S.A.F. ,United States Air Force
+760,U.S.S.R. ,Union of Soviet Socialist Republics
+761,Utilit. ,utilitarian
+762,v.,verb
+763,Va. ,Virginia
+764,Vac. ,vacation
+765,Valedict.,valediction
+766,vbl. ns. ,verbal nouns
+767,Veg. Phys. ,vegetable physiology
+768,Veg. Physiol. ,vegetable physiology
+769,Vertebr. ,vertebrate
+770,Vet. Med. ,veterinary medicine
+771,Vet. Path. ,veterinary pathology
+772,Vet. Sci. ,veterinary science
+773,Vet. Surg. ,veterinary surgery
+774,Vindic. ,vindication
+775,Vindic. ,vindicated
+776,w.,west
+777,W. ,"west, western"
+778,wd. ,      word
+779,Wd. ,      word
+780,west. ,      western
+781,Westm. ,      Westminster
+782,Will. ,      William
+783,Wilts. ,      Wiltshire
+784,Wis. ,      Wisconsin
+785,Wisd. ,      wisdom
+786,wk. ,      weak
+787,Wk. ,      week
+788,Wk. ,      work
+789,Wkly. ,      weekly
+790,Wks. ,      works
+791,Worc. ,      Worcestershire
+792,Worcs. ,      Worcestershire
+793,Writ. ,      writing
+794,Writ. ,      writings
+795,W. Va. ,      West Virginia
+796,Yorksh. ,Yorkshire
+797,Zech.,(in the Bible) Zechariah
+798,Zeph. ,    (in the Bible) Zephaniah
+799,Zool. ,"    zoology, zoological"
